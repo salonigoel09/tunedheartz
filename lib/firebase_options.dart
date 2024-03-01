@@ -44,6 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
+
     apiKey: 'AIzaSyDCbopE8Kq-u5bNwxYNhVe5DZCueEnScRk',
     appId: '1:99776041967:web:31dae88968d9073f26dc1a',
     messagingSenderId: '99776041967',
@@ -67,10 +68,12 @@ class DefaultFirebaseOptions {
     messagingSenderId: '99776041967',
     projectId: 'tunedheartz-2b42c',
     storageBucket: 'tunedheartz-2b42c.appspot.com',
+
     iosBundleId: 'com.example.tunedheartz',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
+
     apiKey: 'AIzaSyD81wG8kj5cRInVF8PJgRxFLvi3f0IRoU0',
     appId: '1:99776041967:ios:63de3edb71c9b2ff26dc1a',
     messagingSenderId: '99776041967',
