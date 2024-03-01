@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99776041967",
+    "project_id": "tunedheartz-2b42c",
+    "storage_bucket": "tunedheartz-2b42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99776041967:android:c544a175e0fcb04e26dc1a",
+        "android_client_info": {
+          "package_name": "com.example.tunedheartz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjpYwSlK4uGWYrWJh0z-o8OHsmYPaBaBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

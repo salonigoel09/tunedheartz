@@ -44,38 +44,41 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCg4SfXKth_cJTKiQs208n1Ix5XwsPlhC4',
-    appId: '1:226949932814:web:643eec8a5c78974970995f',
-    messagingSenderId: '226949932814',
-    projectId: 'tunedheartz',
-    authDomain: 'tunedheartz.firebaseapp.com',
-    storageBucket: 'tunedheartz.appspot.com',
-    measurementId: 'G-Q24MM8FC9Q',
+
+    apiKey: 'AIzaSyDCbopE8Kq-u5bNwxYNhVe5DZCueEnScRk',
+    appId: '1:99776041967:web:31dae88968d9073f26dc1a',
+    messagingSenderId: '99776041967',
+    projectId: 'tunedheartz-2b42c',
+    authDomain: 'tunedheartz-2b42c.firebaseapp.com',
+    storageBucket: 'tunedheartz-2b42c.appspot.com',
+    measurementId: 'G-RRLVENXVYG',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD1JDt3PMv2ClKWli_bqpKDhe89MYX7xL4',
-    appId: '1:226949932814:android:940888ade5b10b7d70995f',
-    messagingSenderId: '226949932814',
-    projectId: 'tunedheartz',
-    storageBucket: 'tunedheartz.appspot.com',
+    apiKey: 'AIzaSyDjpYwSlK4uGWYrWJh0z-o8OHsmYPaBaBo',
+    appId: '1:99776041967:android:c544a175e0fcb04e26dc1a',
+    messagingSenderId: '99776041967',
+    projectId: 'tunedheartz-2b42c',
+    storageBucket: 'tunedheartz-2b42c.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvXnbZtuYK8xcNac8hmfXJ5N5VdYrF8sg',
-    appId: '1:226949932814:ios:eb42b966375625c370995f',
-    messagingSenderId: '226949932814',
-    projectId: 'tunedheartz',
-    storageBucket: 'tunedheartz.appspot.com',
+    apiKey: 'AIzaSyD81wG8kj5cRInVF8PJgRxFLvi3f0IRoU0',
+    appId: '1:99776041967:ios:1c9e807b999ccb2526dc1a',
+    messagingSenderId: '99776041967',
+    projectId: 'tunedheartz-2b42c',
+    storageBucket: 'tunedheartz-2b42c.appspot.com',
+
     iosBundleId: 'com.example.tunedheartz',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvXnbZtuYK8xcNac8hmfXJ5N5VdYrF8sg',
-    appId: '1:226949932814:ios:6f26538170ae82c570995f',
-    messagingSenderId: '226949932814',
-    projectId: 'tunedheartz',
-    storageBucket: 'tunedheartz.appspot.com',
+
+    apiKey: 'AIzaSyD81wG8kj5cRInVF8PJgRxFLvi3f0IRoU0',
+    appId: '1:99776041967:ios:63de3edb71c9b2ff26dc1a',
+    messagingSenderId: '99776041967',
+    projectId: 'tunedheartz-2b42c',
+    storageBucket: 'tunedheartz-2b42c.appspot.com',
     iosBundleId: 'com.example.tunedheartz.RunnerTests',
   );
 }
